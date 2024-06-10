@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Note\\Dart\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Note\\Dart\\Assets\\Scripts\\TargetManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TargetManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Note\\Dart\\Assets\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\CameraController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Note\\Dart\\Assets\\TargetManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\TargetManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,18 +60,42 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "TargetManager.cs",
-              "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\TargetManager.cs",
-              "RelativeDocumentMoniker": "Assets\\TargetManager.cs",
-              "ToolTip": "C:\\Users\\Note\\Dart\\Assets\\TargetManager.cs",
-              "RelativeToolTip": "Assets\\TargetManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\Scripts\\TargetManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TargetManager.cs",
+              "ToolTip": "C:\\Users\\Note\\Dart\\Assets\\Scripts\\TargetManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TargetManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T08:15:49.649Z",
+              "WhenOpened": "2024-06-10T11:17:07.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\Note\\Dart\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T10:24:17.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TargetManager.cs",
+              "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\TargetManager.cs",
+              "RelativeDocumentMoniker": "Assets\\TargetManager.cs",
+              "ToolTip": "C:\\Users\\Note\\Dart\\Assets\\TargetManager.cs",
+              "RelativeToolTip": "Assets\\TargetManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:15:49.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "TimerManager.cs",
               "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\TimerManager.cs",
               "RelativeDocumentMoniker": "Assets\\TimerManager.cs",
@@ -75,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "TimeManager.cs",
               "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\TimeManager.cs",
               "RelativeDocumentMoniker": "Assets\\TimeManager.cs",
@@ -86,7 +118,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ScoreManager.cs",
               "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\ScoreManager.cs",
               "RelativeDocumentMoniker": "Assets\\ScoreManager.cs",
@@ -98,7 +130,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "StartGame.cs",
               "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\StartGame.cs",
               "RelativeDocumentMoniker": "Assets\\StartGame.cs",
@@ -109,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "MovingTarget.cs",
               "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\MovingTarget.cs",
               "RelativeDocumentMoniker": "Assets\\MovingTarget.cs",
@@ -121,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "TargetRespawner.cs",
               "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\TargetRespawner.cs",
               "RelativeDocumentMoniker": "Assets\\TargetRespawner.cs",
@@ -129,12 +161,11 @@
               "RelativeToolTip": "Assets\\TargetRespawner.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T15:13:23.144Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-08T15:13:23.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "ShootBullet.cs",
               "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\ShootBullet.cs",
               "RelativeDocumentMoniker": "Assets\\ShootBullet.cs",
@@ -146,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "BulletController.cs",
               "DocumentMoniker": "C:\\Users\\Note\\Dart\\Assets\\BulletController.cs",
               "RelativeDocumentMoniker": "Assets\\BulletController.cs",

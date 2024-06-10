@@ -55,14 +55,14 @@
     <UnityVersion>2021.3.39f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\BulletController.cs" />
-    <Compile Include="Assets\MovingTarget.cs" />
-    <Compile Include="Assets\TargetManager.cs" />
-    <Compile Include="Assets\ScoreManager.cs" />
-    <Compile Include="Assets\CameraController.cs" />
-    <Compile Include="Assets\TimerManager.cs" />
-    <Compile Include="Assets\TargetRespawner.cs" />
-    <Compile Include="Assets\ShootBullet.cs" />
+    <Compile Include="Assets\Scripts\BulletController.cs" />
+    <Compile Include="Assets\Scripts\MovingTarget.cs" />
+    <Compile Include="Assets\Scripts\TargetManager.cs" />
+    <Compile Include="Assets\Scripts\ScoreManager.cs" />
+    <Compile Include="Assets\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Scripts\TimerManager.cs" />
+    <Compile Include="Assets\Scripts\TargetRespawner.cs" />
+    <Compile Include="Assets\Scripts\ShootBullet.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

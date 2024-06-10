@@ -971,4 +971,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/Note/Desktop/Dart_font/Dart.exe
+  playerPath: C:/Users/Note/Desktop/Dart game/Dart.exe

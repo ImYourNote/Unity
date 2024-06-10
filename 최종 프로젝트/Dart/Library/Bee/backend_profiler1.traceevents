@@ -1,0 +1,477 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1718012274695627, "dur":784, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274696416, "dur":26, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1718012274696449, "dur":10, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1718012274696460, "dur":356, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1718012274696840, "dur":309, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274697149, "dur":0, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870169, "dur":231, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870400, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870406, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870407, "dur":8, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870415, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870416, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870421, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870422, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870428, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870430, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870433, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870435, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870439, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870441, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870444, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870445, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870450, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870451, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870455, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870456, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870460, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870461, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870464, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870466, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870469, "dur":1, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870481, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274870493, "dur":1026, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1718012274697047, "dur":177, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274697224, "dur":2807, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274700034, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1718012274700082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274704353, "dur":701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1718012274705081, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1718012274705116, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274705119, "dur":4822, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1718012274709970, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274710004, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274710008, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274711181, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274711210, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274711214, "dur":1243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274712489, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274712518, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274712521, "dur":1616, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274714157, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274714184, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274714188, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274715468, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274715496, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274715499, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274716670, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274716694, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274716698, "dur":2318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274719037, "dur":40, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274719079, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274719083, "dur":3416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274722520, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274722547, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274722550, "dur":4290, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274726860, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274726884, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274726887, "dur":3042, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274729950, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274729977, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274729981, "dur":1115, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274731119, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274731143, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274731146, "dur":1597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274732764, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274732810, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274732813, "dur":2135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":1, "ts":1718012274734969, "dur":1622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1718012274736593, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1718012274736597, "dur":834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1718012274737464, "dur":132701, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274696829, "dur":326, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274697159, "dur":2859, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274700023, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1718012274700026, "dur":32, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274700060, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1718012274700063, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274700455, "dur":1521, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/app.info" }}
+,{ "pid":12345, "tid":2, "ts":1718012274701976, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1718012274701999, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274702286, "dur":687, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":2, "ts":1718012274702994, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1718012274703017, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274703061, "dur":794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":2, "ts":1718012274703878, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1718012274703906, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274703910, "dur":944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1718012274704889, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718012274704920, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274704923, "dur":17171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718012274722160, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718012274722185, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274722190, "dur":2139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718012274724350, "dur":70247, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718012274794602, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1718012274794611, "dur":757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1718012274795388, "dur":74800, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274697055, "dur":174, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274697230, "dur":2795, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274700028, "dur":70, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718012274700102, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274714653, "dur":1120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1718012274715796, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274715824, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274715828, "dur":1780, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274717629, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274717656, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274717659, "dur":2053, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274719732, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274719758, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274719761, "dur":2154, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274721936, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274721966, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274721970, "dur":2176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274724168, "dur":72130, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274796301, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1718012274796307, "dur":756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1718012274797082, "dur":73100, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274696899, "dur":274, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274697173, "dur":2848, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274700023, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1718012274700080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274704000, "dur":740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":4, "ts":1718012274704764, "dur":36, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274704844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274704990, "dur":2169, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274707182, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274707209, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274707339, "dur":772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274708135, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274708164, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274708198, "dur":598, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274708816, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274708862, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274708866, "dur":776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274709663, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274709688, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274709692, "dur":1066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274710779, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274710805, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274710808, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274712180, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274712203, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274712206, "dur":914, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274713145, "dur":112476, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274825625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1718012274825632, "dur":766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":4, "ts":1718012274826414, "dur":43756, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274696917, "dur":263, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274697181, "dur":2842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274700024, "dur":55, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1718012274700082, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274707203, "dur":2230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1718012274709456, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274709482, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274709485, "dur":660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274710165, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274710192, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274710196, "dur":1120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274711343, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274711378, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274711381, "dur":1128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274712542, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274712570, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274712574, "dur":1222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274713822, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274713857, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274713860, "dur":1343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274715236, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274715265, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274715269, "dur":1471, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274716832, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274716860, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274716864, "dur":2149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274719039, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274719067, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274719070, "dur":2185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274721278, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274721301, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274721304, "dur":2158, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274723491, "dur":39084, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274762580, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1718012274762590, "dur":895, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":5, "ts":1718012274763511, "dur":106683, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274696939, "dur":248, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274697187, "dur":2835, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274700023, "dur":66, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1718012274700091, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274707720, "dur":1320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":6, "ts":1718012274709068, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274709104, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274709107, "dur":803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274709932, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274709959, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274709962, "dur":910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274710946, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274710978, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274710981, "dur":1311, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274712314, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274712336, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274712339, "dur":1488, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274713849, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274713880, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274713883, "dur":1749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274715655, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274715684, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274715687, "dur":1774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274717486, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274717513, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274717516, "dur":2671, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274720210, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274720235, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274720238, "dur":2347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274722606, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274722632, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274722636, "dur":2712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274725367, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274725390, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274725393, "dur":4533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274729949, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274729976, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274729980, "dur":1610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274731611, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274731634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274731638, "dur":1017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274732702, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274732731, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274732734, "dur":2114, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":6, "ts":1718012274734869, "dur":59, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1718012274734930, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274735022, "dur":1127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":6, "ts":1718012274736169, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1718012274736191, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1718012274736194, "dur":545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/level0" }}
+,{ "pid":12345, "tid":6, "ts":1718012274736772, "dur":133392, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274696961, "dur":233, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274697194, "dur":2825, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274700023, "dur":46, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1718012274700070, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274701080, "dur":1019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":7, "ts":1718012274702117, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1718012274702136, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274702173, "dur":793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1718012274702988, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1718012274703009, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274703054, "dur":834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1718012274703911, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1718012274703938, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274703942, "dur":902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":7, "ts":1718012274704878, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274704908, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274704997, "dur":10261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274715292, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274715318, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274715323, "dur":1092, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274716439, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274716472, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274716476, "dur":2435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274718944, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274718971, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274718975, "dur":2473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274721469, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274721493, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274721497, "dur":1826, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274723346, "dur":43, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274723391, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274723395, "dur":4900, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274728375, "dur":32, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274728409, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274728413, "dur":3166, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274731604, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274731741, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274731745, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274733442, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274733464, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274733468, "dur":1686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":7, "ts":1718012274735172, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1718012274735195, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274735198, "dur":1543, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1718012274736764, "dur":61, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1718012274736837, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1718012274736840, "dur":794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/boot.config" }}
+,{ "pid":12345, "tid":7, "ts":1718012274737652, "dur":132561, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274696980, "dur":221, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274697201, "dur":2818, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274700023, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1718012274700080, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274703877, "dur":710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1718012274704610, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1718012274704632, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274704635, "dur":1392, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":8, "ts":1718012274706042, "dur":16, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart.exe" }}
+,{ "pid":12345, "tid":8, "ts":1718012274706059, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274706061, "dur":787, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart.exe" }}
+,{ "pid":12345, "tid":8, "ts":1718012274706863, "dur":17, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1718012274706882, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274707058, "dur":6192, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":8, "ts":1718012274713308, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274713342, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274713346, "dur":1086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274714455, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274714496, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274714499, "dur":1177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274715700, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274715726, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274715730, "dur":1679, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274717432, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274717458, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274717462, "dur":2141, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274719629, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274719653, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274719656, "dur":2374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274722054, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274722078, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274722082, "dur":2113, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274724218, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274724242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274724246, "dur":3988, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274728259, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274728298, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274728302, "dur":1897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274730219, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274730242, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274730246, "dur":762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274731028, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274731058, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274731061, "dur":987, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274732068, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274732105, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274732108, "dur":1434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274733562, "dur":29046, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274762611, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1718012274762616, "dur":878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":8, "ts":1718012274763520, "dur":106678, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274697001, "dur":205, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274697206, "dur":2814, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274700023, "dur":68, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1718012274700093, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274714326, "dur":1225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1718012274715578, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274715603, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274715608, "dur":1537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274717165, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274717203, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274717207, "dur":2383, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274719625, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274719654, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274719658, "dur":2117, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274721795, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274721818, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274721821, "dur":1927, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274723770, "dur":75162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274798936, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1718012274798941, "dur":897, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":9, "ts":1718012274799860, "dur":70317, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274697021, "dur":191, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274697212, "dur":2834, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274700047, "dur":41, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1718012274700091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274713971, "dur":1964, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":10, "ts":1718012274715983, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274716140, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274716144, "dur":1925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274718093, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274718115, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274718118, "dur":2776, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274720923, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274720953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274720957, "dur":1989, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274722992, "dur":45, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274723039, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274723044, "dur":5254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274728336, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274728367, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274728371, "dur":2023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274730418, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274730457, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274730601, "dur":1259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274731883, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274731907, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274731910, "dur":1896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1718012274733831, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1718012274733858, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274733898, "dur":735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":10, "ts":1718012274734818, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1718012274734859, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274734863, "dur":995, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":10, "ts":1718012274735879, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1718012274735906, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274735910, "dur":674, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/level0.resS" }}
+,{ "pid":12345, "tid":10, "ts":1718012274736604, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1718012274736627, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1718012274736631, "dur":870, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":10, "ts":1718012274737520, "dur":132686, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274697040, "dur":177, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274697217, "dur":2821, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274700041, "dur":72, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1718012274700115, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274715231, "dur":1284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":11, "ts":1718012274716537, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274716594, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274716598, "dur":2172, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274718794, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274718889, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274718894, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274721060, "dur":30, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274721091, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274721095, "dur":1947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274723062, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274723086, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274723089, "dur":4837, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274727949, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274727973, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274727976, "dur":2399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274730393, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274730419, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274730422, "dur":2065, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274732545, "dur":33, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274732580, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274732584, "dur":2239, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":11, "ts":1718012274734846, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1718012274734870, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274734873, "dur":911, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":11, "ts":1718012274735804, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1718012274735826, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274735829, "dur":752, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/resources.assets" }}
+,{ "pid":12345, "tid":11, "ts":1718012274736602, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1718012274736624, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1718012274736628, "dur":865, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":11, "ts":1718012274737512, "dur":132650, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274696845, "dur":323, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274697168, "dur":2856, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274700024, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1718012274700089, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274707642, "dur":1043, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":12, "ts":1718012274708719, "dur":18, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274708738, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274708741, "dur":731, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274709497, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274709521, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274709523, "dur":918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274710462, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274710493, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274710497, "dur":1175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274711694, "dur":25, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274711720, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274711723, "dur":1103, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274712844, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274712907, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274712910, "dur":2878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274715812, "dur":29, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274715842, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274715847, "dur":2545, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274718415, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274718441, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274718444, "dur":2677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274721163, "dur":28, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274721193, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274721196, "dur":3700, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274724955, "dur":144281, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274869240, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1718012274869247, "dur":864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/Note/Desktop/Dart_font/Dart_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":12, "ts":1718012274870132, "dur":0, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":12, "ts":1718012274870133, "dur":0, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1718012274872607, "dur":1369, "ph":"X", "name": "ProfilerWriteOutput" }
+,
